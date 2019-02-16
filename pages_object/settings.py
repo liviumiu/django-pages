@@ -25,7 +25,7 @@ SECRET_KEY = '*umt83_af6!pv(dfe+cn3qi0g_f89ggzbvfwn51pq9(+ten%$-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
